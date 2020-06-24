@@ -1,3 +1,5 @@
 # AndroidCrop
 Just another practice project.
-An android app for cropping images.
+An android app for cropping images.     
+
+Language : Kotlin
